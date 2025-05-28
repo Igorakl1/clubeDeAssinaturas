@@ -30,5 +30,3 @@ Bem-vindo ao **Encantos Literários**, um clube de assinatura feito para quem am
 - Animações suaves com scroll (`data-anime="scroll"`)
 
 ---
-
-## 📁 Estrutura do projeto
